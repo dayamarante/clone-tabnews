@@ -1,3 +1,3 @@
 # clone-tabnews
-Entendendo programação por um projeto completo. 
 
+Entendendo programação por um projeto completo.
